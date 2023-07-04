@@ -21,6 +21,6 @@ For a better view! 👀
 
 ##
 
-Check out by your hands! 👇
+# Check out by your hands! 👇
 
-https://felipewarchelski.github.io/MyPortfolio/
+<strong>https://felipewarchelski.github.io/MyPortfolio/</strong>
