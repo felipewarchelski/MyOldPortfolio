@@ -1,5 +1,5 @@
 # MyPortfolio 🔥
-For a better view! 👀
+### For a better view! 👀
 
 <img align="center" alt="" height="100%" width="100%" src="http://i.imgur.com/OtMQFTu.png">
 
@@ -21,6 +21,6 @@ For a better view! 👀
 
 ##
 
-# Check out by your hands! 👇
+### Check out by your hands! 👇
 
 <strong>https://felipewarchelski.github.io/MyPortfolio/</strong>
